@@ -1,0 +1,1 @@
+<button onclick="document.getElementById('h').innerHTML=Date()">The time is?</button>
